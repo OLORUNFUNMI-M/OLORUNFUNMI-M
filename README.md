@@ -1,4 +1,5 @@
-Welcome,
+Welcome!
+
 I am Olorunfunmi moriamo, a Microbiologist and a data girl.
 
 My languages : Python, SQL
