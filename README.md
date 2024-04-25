@@ -5,7 +5,7 @@ My languages : Python, SQL
 
 My tools: Microsoft excel, Power Bi, Looker  studio, Tableau
 
-Providing insights for business and helping to make good decisions with the help of data.
+Providing insights for business to make good decisions with the use of data.
 
 Affinity for Health and data ( Working with data to change the misconception of health challenges)
 Walk with me.................................
