@@ -1,14 +1,13 @@
 Welcome!
 
-I am Olorunfunmi moriamo, a Microbiologist and a data girl.
+I am Olorunfunmi moriamo, a data girl.
 
-Providing insights for business to make good decisions with the use of data.
+I use my skills to help business maximize the value of their business data, through providing insights to business data.
 
-Affinity for Health and data ( Working with data to change the misconception of health challenges)
 
 My languages : Python, SQL
 
-My tools: Microsoft excel, Power Bi, Looker  studio, Tableau
+My tools: Microsoft excel,Power auttomate,Copilot studio, Power Bi, Looker  studio, Tableau
 
 
 
